@@ -1,0 +1,11 @@
+Node.js >= 18
+
+express
+cors
+dotenv
+jsonwebtoken
+bcryptjs
+joi
+prisma
+@prisma/client
+nodemon
